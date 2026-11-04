@@ -1,1 +1,1 @@
-{"name":"MY AI STUDIO","short_name":"AI STUDIO","description":"iPhone向け創作ワークスペース","start_url":"./","scope":"./","display":"standalone","background_color":"#0d1020","theme_color":"#17142f","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"MY AI STUDIO","short_name":"AI STUDIO","description":"iPhone向け創作ワークスペース","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#101326","theme_color":"#101326","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
